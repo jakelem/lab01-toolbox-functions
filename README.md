@@ -2,7 +2,9 @@
 Partner: Sam Lee
 
 pulsing flower: https://www.shadertoy.com/view/NdVGRy
+
 spinning flower: https://www.shadertoy.com/view/ssKGRG
+
 our own flower: https://www.shadertoy.com/view/7dK3RG
 
 Let's practice using some tool box functions! You may work with a partner for this one.
